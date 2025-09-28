@@ -1,0 +1,22 @@
+# Web framework
+flask
+
+# Environment variables
+python-dotenv
+
+# Supabase client
+supabase
+
+# PDF & OCR
+pdfplumber
+pytesseract
+Pillow
+
+# API calls
+requests
+
+# AI / LLM
+openai
+
+# Data handling
+pandas
