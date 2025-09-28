@@ -20,3 +20,4 @@ openai
 
 # Data handling
 pandas
+gunicorn
